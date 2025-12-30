@@ -124,3 +124,27 @@ PassBreak/
 ├── examples/
 │   ├── test_hashes.txt
 │   └── test_wordlist.txt
+
+
+
+---
+
+## 📸 CLI Preview
+
+PassBreak is designed as a **terminal-first security tool**.  
+Below is the real CLI interface showing the banner and available commands.
+
+### PassBreak Banner & Help Menu
+
+![PassBreak CLI Preview](screenshots/passbreak-cli.png)
+
+The CLI provides access to:
+- Hash identification
+- Dictionary and batch cracking
+- Password strength analysis
+- Secure password & passphrase generation
+- Wordlist generation
+- Statistics and dashboard controls
+
+All functionality is accessible directly from the terminal.
+
