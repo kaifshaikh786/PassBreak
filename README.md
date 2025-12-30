@@ -135,8 +135,8 @@ PassBreak is designed as a **terminal-first security tool**.
 Below is the real CLI interface showing the banner and available commands.
 
 ### PassBreak Banner & Help Menu
+(PassBreak/Screenshot at 2025-12-28 06-23-13.png)
 
-![PassBreak CLI Preview](screenshots/passbreak-cli.png)
 
 The CLI provides access to:
 - Hash identification
